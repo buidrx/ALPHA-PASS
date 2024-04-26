@@ -1,33 +1,79 @@
 {
   "name": "Alpha Pass: Gen Zero",
   "symbol": "APGZ",
-  "description": "These passes are far more than mere tokens of appreciation; they symbolise the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+  "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
   "seller_fee_basis_points": 1000,
   "external_url": "https://twitter.com/Pantherbuildoor",
-  "attributes": [
-    {
-      "trait_type": "Pass Type",
-      "value": "Basic",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/100Basic%20Pass.mp4"
-    },
-    {
-      "trait_type": "Pass Type",
-      "value": "Gold",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/70Gold%20Pass.mp4"
-    },
-    {
-      "trait_type": "Pass Type",
-      "value": "Diamond",
-      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/30Diamond%20Pass.mp4"
-    }
-  ],
   "properties": {
     "files": [
       {
-        this is the part i have the major issue with, keep in mind that my supply is 200 and i have just three mp4 files for this launch
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/100Basic%20Pass.mp4",
+        "type": "video/mp4",
+        "name": "Alpha Pass: Basic"
+      },
+      {
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/70Gold%20Pass.mp4",
+        "type": "video/mp4",
+        "name": "Alpha Pass: Gold"
+      },
+      {
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/30Diamond%20Pass.mp4",
+        "type": "video/mp4",
+        "name": "Alpha Pass: Diamond"
       }
-    ]
-  },
+    ],
+    "supply": 200,
+    "items": [
+      {
+        "name": "Alpha Pass #1",
+        "type": "video",
+        "files": [
+          {
+            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+            "type": "video/mp4",
+            "name": "Alpha Pass: Basic"
+          }
+        ]
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "files": [
+          {
+            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+            "type": "video/mp4",
+            "name": "Alpha Pass: Gold"
+          }
+        ]
+      {
+        "name": "Alpha Pass #3",
+        "type": "video",
+        "files": [
+          {
+            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
+            "type": "video/mp4",
+            "name": "Alpha Pass: Diamond"
+          }
+        ]
+        ...
+      },
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Basic",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Gold",
+      "rarity": "Special"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Diamond",
+      "rarity": "Royals"
+    }
+  ],
   "seller_fee_basis_points": 1000,
   "socials": [
     {
