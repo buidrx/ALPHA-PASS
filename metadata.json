@@ -1,67 +1,13 @@
 {
   "name": "Alpha Pass: Gen Zero",
-  "symbol": "APGZ",
   "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
-  "seller_fee_basis_points": 1000,
+  "image": "https://example.com/placeholder_image.jpg",  // Replace with your image URL
   "external_url": "https://twitter.com/Pantherbuildoor",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
-        "type": "video/mp4",
-        "name": "Alpha Pass: Basic"
-      },
-      {
-        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
-        "type": "video/mp4",
-        "name": "Alpha Pass: Gold"
-      },
-      {
-        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
-        "type": "video/mp4",
-        "name": "Alpha Pass: Diamond"
-      }
-    ],
-    "supply": 200,
-    "items": [
-      {
-        "name": "Alpha Pass #1",
-        "type": "video",
-        "files": [
-          {
-            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
-            "type": "video/mp4",
-            "name": "Alpha Pass: Basic"
-          }
-        ]
-      },
-      {
-        "name": "Alpha Pass #2",
-        "type": "video",
-        "files": [
-          {
-            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
-            "type": "video/mp4",
-            "name": "Alpha Pass: Gold"
-          }
-        ]
-      {
-        "name": "Alpha Pass #3",
-        "type": "video",
-        "files": [
-          {
-            "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
-            "type": "video/mp4",
-            "name": "Alpha Pass: Diamond"
-          }
-        ]
-        ...
-      },
   "attributes": [
     {
       "trait_type": "Tier",
       "value": "Basic",
-      "rarity": "Common"
+      "rarity": "Degen"
     },
     {
       "trait_type": "Tier",
@@ -74,17 +20,30 @@
       "rarity": "Royals"
     }
   ],
-  "seller_fee_basis_points": 1000,
-  "socials": [
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/Pantherbuildoor"
-    },
-    {
-      "name": "Discord",
-      "url": "https://discord.gg/J5P6qYU46H"
-    }
-  ],
+  "properties": {
+    "files": [
+      // First 100 NFTs with Basic tier
+      {
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      // Next 70 NFTs with Gold tier
+      {
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      // Final 30 NFTs with Diamond tier
+      {
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video"
+  },
+  "collection": {
+    "name": "Alpha Pass Collection",
+    "family": "Buidrx"
+  },
   "creators": [
     {
       "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
