@@ -1,0 +1,48 @@
+{
+  "name": "Alpha Pass: Gen Zero",
+  "symbol": "APGZ",
+  "description": "These passes are far more than mere tokens of appreciation; they symbolise the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+  "seller_fee_basis_points": 1000,
+  "external_url": "https://twitter.com/Pantherbuildoor",
+  "attributes": [
+    {
+      "trait_type": "Pass Type",
+      "value": "Basic",
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/100Basic%20Pass.mp4"
+    },
+    {
+      "trait_type": "Pass Type",
+      "value": "Gold",
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/70Gold%20Pass.mp4"
+    },
+    {
+      "trait_type": "Pass Type",
+      "value": "Diamond",
+      "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/30Diamond%20Pass.mp4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        this is the part i have the major issue with, keep in mind that my supply is 200 and i have just three mp4 files for this launch
+      }
+    ]
+  },
+  "seller_fee_basis_points": 1000,
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Pantherbuildoor"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/J5P6qYU46H"
+    }
+  ],
+  "creators": [
+    {
+      "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
+      "share": 100
+    }
+  ]
+}
