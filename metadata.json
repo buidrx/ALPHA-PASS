@@ -1,7 +1,7 @@
 {
-  "name": "Alpha Pass: Gen Zero",
   "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
-  "image": "https://example.com/placeholder_image.jpg",  // Replace with your image URL
+  "image": "https://example.com/placeholder_image.jpg", // Replace with your image URL
+  "animation_url": "https://example.com/placeholder_animation.mp4", // Replace with your animation URL
   "external_url": "https://twitter.com/Pantherbuildoor",
   "attributes": [
     {
@@ -24,21 +24,28 @@
     "files": [
       // First 100 NFTs with Basic tier
       {
+        "name": "Alpha Pass #1",
+        "type": "video",
         "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
         "type": "video/mp4"
       },
       // Next 70 NFTs with Gold tier
       {
+        "name": "Alpha Pass #2",
+        "type": "video",
         "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
         "type": "video/mp4"
       },
       // Final 30 NFTs with Diamond tier
       {
+        "name": "Alpha Pass #3",
+        "type": "video",
         "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
         "type": "video/mp4"
       }
     ],
-    "category": "video"
+    "category": "video",
+    "supply": 200 // Total supply of NFTs
   },
   "collection": {
     "name": "Alpha Pass Collection",
