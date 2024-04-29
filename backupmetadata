@@ -1,0 +1,1237 @@
+{
+  "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+  "image": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
+  "animation_url": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Diamond%20Pass.mp4",
+  "external_url": "https://twitter.com/Pantherbuildoor",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Basic",
+      "rarity": "Degen"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Gold",
+      "rarity": "Special"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Diamond",
+      "rarity": "Royals"
+    }
+  ],
+  "properties": {
+    "files": [
+      // First 100 NFTs with Basic tier
+      {
+        "name": "Basic Pass #1",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #4",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #7",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #10",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #13",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #16",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #19",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #22",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #25",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #28",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #31",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #34",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #37",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #40",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #43",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #46",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #49",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #52",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #55",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #58",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #61",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #64",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #67",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #70",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #73",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #76",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #79",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #82",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #85",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #88",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #91",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #94",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #97",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #100",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #102",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #104",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #106",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #108",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #110",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #112",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #114",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #116",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #118",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #120",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #122",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #124",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #126",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #128",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #130",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #132",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #134",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #136",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #138",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #140",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #142",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #144",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #146",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #148",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #150",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #152",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #154",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #158",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #160",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #162",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #164",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #166",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #168",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #170",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #172",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #174",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #176",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #178",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #180",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #182",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #184",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #186",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #188",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #190",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #192",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #194",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #196",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #198",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #200",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #202",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #85",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #86",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #87",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #88",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #89",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #90",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #91",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #92",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #93",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #94",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #95",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #96",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #97",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #98",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #99",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+       {
+        "name": "Basic Pass #100",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      // Next 70 NFTs with Gold tier
+     
+      {
+        "name": "Gold Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #5",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #8",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #11",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #14",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #17",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #20",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #23",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #26",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name "Gold Pass #29"
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #32",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #35",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #38",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #41",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #44",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #47",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #50",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #53",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #56",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #59",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #62",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #65",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #68",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #71",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #74",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #77",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #80",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #83",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #86",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #89",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #92",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #95",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #98",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Gold Pass #101",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #94",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Alpha Pass #2",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen-Zero/raw/main/171Gold%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      // Final 30 NFTs with Diamond tier
+      {
+        "name": "Diamond Pass #3",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #6",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #9",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Alpha Pass #12",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #15",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #18",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #21",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #24",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #27",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #30",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #33",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS-Gen/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #36",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #39",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #42",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #45",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #48",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #51",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #54",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #57",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #60",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #63",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #66",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #69",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Alpha Pass #72",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+      {
+        "name": "Diamond Pass #75",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Diamond Pass #78",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Diamond Pass #81",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Diamond Pass #84",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Diamond Pass #87",
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "name": "Diamond Pass #99"
+        "type": "video",
+        "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/171Diamond%20Pass.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "supply": 200
+  },
+  "collection": {
+    "name": "Alpha Pass Collection",
+    "family": "Buidrx"
+  },
+  "creators": [
+    {
+      "address": "t8kR1epsQxrrugthzXpU9g3FAVRTNcVm99XZ2QLcgrV",
+      "share": 100
+    }
+  ]
+}
