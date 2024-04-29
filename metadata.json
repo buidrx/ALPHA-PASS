@@ -22,7 +22,6 @@
   ],
   "properties": {
     "files": [
-      // First 100 NFTs with Basic tier
       {
         "name": "Basic Pass #1",
         "type": "video",
