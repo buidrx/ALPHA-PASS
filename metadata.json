@@ -203,7 +203,6 @@
         "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
         "type": "video/mp4"
       },
-//continuing the sequence after diamond ends
        {
         "name": "Basic Pass #91",
         "type": "video",
@@ -432,7 +431,6 @@
         "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
         "type": "video/mp4"
       },
-//continuing the sequence after Gold ends
        {
         "name": "Basic Pass #171",
         "type": "video",
@@ -613,8 +611,6 @@
         "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/1Basic%20Pass.mp4",
         "type": "video/mp4"
       },
-      
-     //next 70 tier gold passes
       {
         "name": "Gold Pass #2",
         "type": "video",
@@ -795,8 +791,6 @@
         "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
         "type": "video/mp4"
       },
-      
-      //continuing the sequence after diamond ends
       {
         "name": "Gold Pass #92",
         "type": "video",
@@ -1037,7 +1031,6 @@
         "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
         "type": "video/mp4"
       },
-      // Final 30 NFTs with Diamond tier
       {
         "name": "Diamond Pass #3",
         "type": "video",
