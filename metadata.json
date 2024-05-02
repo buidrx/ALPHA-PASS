@@ -776,6 +776,7 @@
           "name": "Gold Pass 77",
           "file_type": "video",
           "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4",
+          "type": "video/mp4"
       },
        {
           "name": "Gold Pass 80",
@@ -806,7 +807,7 @@
           "file_type": "video",
           "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4",
           "type": "video/mp4"
-      }
+      },
        {
          "name": "Gold Pass 94",
          "file_type": "video",
@@ -1046,7 +1047,7 @@
          "file_type": "video",
          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4",
          "type": "video/mp4"
-      }
+      },
        {
         "name": "Diamond Pass 3",
         "file_type": "video",
