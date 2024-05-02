@@ -1,21 +1,21 @@
 {
   "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
-  "video_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Diamond%20Pass%203.mp4"
+  "video_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Diamond%20Pass%203.mp4",
   "external_url": "https://twitter.com/Pantherbuildoor",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "Basic",
+      "value": "Basic Pass",
       "rarity": "Degen"
     },
     {
       "trait_type": "Tier",
-      "value": "Gold",
+      "value": "Gold Pass",
       "rarity": "Special"
     },
     {
       "trait_type": "Tier",
-      "value": "Diamond",
+      "value": "Diamond Pass",
       "rarity": "Royals"
     }
   ],
