@@ -22,9 +22,15 @@
       "category": "video"
     }
   },
-  // Continue with Basic Pass 2 to Basic Pass 88
-  
-  // Start Gold Pass
+  // Continue the 1,4,7,10 sequence from Basic Pass 4 to Basic Pass 88
+  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
+  //stop the sequence at 169
+  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
+
+
+   // Start Gold Pass at Gold Pass 2
+  //stop sequence at Gold Pass 89
+  // Restart Gold Pass with a new sequence 92,94,96,98 to Gold Pass 170
   {
     "name": "Gold Pass 2",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
@@ -48,9 +54,8 @@
       "category": "video"
     }
   },
-  // Continue with Gold Pass 3 to Gold Pass 89
-  
-  // Start Diamond Pass
+
+  // Start with Diamond Pass 3 with 3,6,9,12,15 sequence
   {
     "name": "Diamond Pass 3",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
@@ -74,8 +79,6 @@
       "category": "video"
     }
   },
-  // Continue with Diamond Pass 4 to Diamond Pass 30
-  
-  // Restart Basic Pass
-  // Continue with Basic Pass 91 to Basic Pass 200
+
+  //stop sequence at Diamond Pass 30
 ]
