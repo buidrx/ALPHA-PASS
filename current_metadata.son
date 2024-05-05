@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Basic Pass 1",
+    "description": "Description for Basic Pass 1",
+    "image": "Image URL for Basic Pass 1",
+    "animation_url": "Animation URL for Basic Pass 1",
+    "external_url": "External URL for Basic Pass 1",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "Video URL for Basic Pass 1",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 2",
+    "description": "Description for Gold Pass 2",
+    "image": "Image URL for Gold Pass 2",
+    "animation_url": "Animation URL for Gold Pass 2",
+    "external_url": "External URL for Gold Pass 2",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Gold",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "Video URL for Gold Pass 2",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Diamond Pass 3",
+    "description": "Description for Diamond Pass 3",
+    "image": "Image URL for Diamond Pass 3",
+    "animation_url": "Animation URL for Diamond Pass 3",
+    "external_url": "External URL for Diamond Pass 3",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Diamond",
+        "rarity": "Royals"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "Video URL for Diamond Pass 3",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  // Continue with Gold Pass 4, Diamond Pass 5, Basic Pass 6, and so on
+]
