@@ -68,9 +68,6 @@
       "category": "video"
     }
   },
-  // Continue the 1,4,7,10 sequence from Basic Pass 4 to Basic Pass 88
-  
-
   {
     "name": "Basic Pass 4",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
@@ -2073,11 +2070,7 @@
       ],
       "category": "video"
     }
-  },
-  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
-  //stop the sequence at 169
-
-      
+  },    
    {
     "name": "Basic Pass 91",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
