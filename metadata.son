@@ -1,35 +1,81 @@
-{
-  "name": "SolanaArtProject #1",
-  "description": "Generative art on Solana.",
-  "image": "https://arweave.net/26YdhY_eAzv26YdhY1uu9uiA3nmDZYwP8MwZAultcE?ext=jpeg",
-  "animation_url": "https://arweave.net/ZAultcE_eAzv26YdhY1uu9uiA3nmDZYwP8MwuiA3nm?ext=glb",
-  "external_url": "https://example.com",
-  "attributes": [
-    {
-      "trait_type": "trait1",
-      "value": "value1"
-    },
-    {
-      "trait_type": "trait2",
-      "value": "value2"
-    }
-  ],
-  "properties": {
-    "files": [
+[
+  {
+    "name": "Basic Pass 1",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
       {
-        "uri": "https://www.arweave.net/abcd5678?ext=png",
-        "type": "image/png"
-      },
-      {
-        "uri": "https://watch.videodelivery.net/9876jkl",
-        "type": "unknown",
-        "cdn": true
-      },
-      {
-        "uri": "https://www.arweave.net/efgh1234?ext=mp4",
-        "type": "video/mp4"
+        "trait_type": "Tier 1",
+        "value": "Basic Pass",
+        "rarity": "Degen"
       }
     ],
-    "category": "video"
-  }
-}
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  // Continue with Basic Pass 2 to Basic Pass 88
+  
+  // Start Gold Pass
+  {
+    "name": "Gold Pass 2",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  // Continue with Gold Pass 3 to Gold Pass 89
+  
+  // Start Diamond Pass
+  {
+    "name": "Diamond Pass 3",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Diamond%20Pass%203.mp4",
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Diamond%20Pass%203.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 3",
+        "value": "Diamond Pass",
+        "rarity": "Royal"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/101Gold%20Pass.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  // Continue with Diamond Pass 4 to Diamond Pass 30
+  
+  // Restart Basic Pass
+  // Continue with Basic Pass 91 to Basic Pass 200
+]
