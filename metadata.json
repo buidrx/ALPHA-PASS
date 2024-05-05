@@ -68,14 +68,8 @@
       "category": "video"
     }
   },
-
-
-
-
-
-  // Continue with Basic Pass 4, Gold Pass 5, Diamond Pass 6, and so on
-
-
+  // Continue the 1,4,7,10 sequence from Basic Pass 4 to Basic Pass 88
+  
 
   {
     "name": "Basic Pass 4",
@@ -2080,6 +2074,10 @@
       "category": "video"
     }
   },
+  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
+  //stop the sequence at 169
+
+      
    {
     "name": "Basic Pass 91",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
@@ -2356,15 +2354,2257 @@
       "category": "video"
     }
   },
+    {
+    "name": "Basic Pass 103",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 104",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 105",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 106",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 107",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 108",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 109",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 110",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 111",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 112",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 113",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 114",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 115",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 116",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 117",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 118",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 119",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 120",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 121",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 122",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 123",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 124",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 125",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 126",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 127",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 128",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 129",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 130",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 131",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 132",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 133",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 134",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Basic Pass 135",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 136",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 137",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 138",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
 
-
-  // Continue the 1,4,7,10 sequence from Basic Pass 4 to Basic Pass 88
-  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
-  //stop the sequence at 169
-  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
-  // Start Gold Pass at Gold Pass 2
-  //stop sequence at Gold Pass 89
-  // Restart Gold Pass with a new sequence 92,94,96,98 to Gold Pass 170
-  // Start with Diamond Pass 3 with 3,6,9,12,15 sequence
-  //stop sequence at Diamond Pass 30
+   {
+    "name": "Basic Pass 139",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 140",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 141",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 142",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 143",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 144",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 145",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 146",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 147",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 148",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 149",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 150",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 151",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 152",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 153",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 154",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Basic Pass 155",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 156",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 157",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 158",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 159",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+  {
+    "name": "Gold Pass 160",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 161",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Gold Pass 162",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 163",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Gold Pass 164",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 165",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Gold Pass 166",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 167",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Gold Pass 168",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 169",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+    {
+    "name": "Gold Pass 170",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 2",
+        "value": "Gold Pass",
+        "rarity": "Special"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Gold%20Pass%202.mp4"
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 171",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 172",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 173",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 174",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 175",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 176",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 177",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 178",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 179",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 180",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 181",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 182",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 183",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 184",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },   {
+    "name": "Basic Pass 185",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 186",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },   {
+    "name": "Basic Pass 187",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 188",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 189",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+   {
+    "name": "Basic Pass 190",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 191",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 192",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 193",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 194",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 195",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 196",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 197",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 198",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 199",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
+     {
+    "name": "Basic Pass 200",
+    "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
+    "image": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4"
+    "animation_url": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+    "external_url": "https://discord.gg/J5P6qYU46H",
+    "attributes": [
+      {
+        "trait_type": "Tier 1",
+        "value": "Basic",
+        "rarity": "Degen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/buidrx/ALPHA-PASS/raw/main/Basic%20Pass%201.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  },
 ]
