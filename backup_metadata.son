@@ -2074,9 +2074,8 @@
       "category": "video"
     }
   },
-  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass 171
-  //stop the sequence at 169
-
+  //stop the sequence at 89 for basic pass
+  // Restart Basic Pass with a new sequence 91,93,95,97 with Basic Pass to basic pass 169
       
    {
     "name": "Basic Pass 91",
@@ -2101,6 +2100,9 @@
       "category": "video"
     }
   },
+  //stop the sequence at 89 for basic pass
+  // Restart Basic Pass with a new sequence 92,94,96,98 with Basic Pass to basic pass 170
+
   {
     "name": "Gold Pass 92",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem.",
@@ -3919,6 +3921,8 @@
       "category": "video"
     }
   },
+// Restart Basic Pass with a new sequence from 171, 172,173 to 200
+
    {
     "name": "Basic Pass 171",
     "description": "These passes are far more than mere tokens of appreciation; they symbolize the gateway to an exclusive realm of benefits within the Buidrx ecosystem",
